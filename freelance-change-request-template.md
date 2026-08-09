@@ -31,3 +31,5 @@ Please confirm whether you approve the changed scope for **[price]** and the upd
 
 For the context, examples, and five-step checklist, return to the [freelance scope-change checklist](README.md).
 
+Disclosure: This template was drafted with AI assistance, then reviewed and edited by AppsByEvan Labs.
+
