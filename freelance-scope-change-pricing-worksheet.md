@@ -51,6 +51,7 @@ Keep the request, price, delivery impact, and approval in the same written threa
 - Is the added price stated once, without a hidden range?
 - Is any rush or coordination impact real and explained?
 - Did the client choose the added work or the original scope in writing?
+- Did you receive written approval before starting the added work?
 - Did you update the delivery plan after approval?
 
 For a broader change-request workflow, use the free QuoteBoundary scope-change response generator linked from the main README. Inputs stay in the browser; the result is planning help, not a legal change order.
