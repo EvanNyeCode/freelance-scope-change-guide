@@ -6,6 +6,7 @@ This short guide is a practical planning reference for freelancers, consultants,
 
 For a copy-ready form, see the [freelance change request template](freelance-change-request-template.md).
 For an email-specific version, see the [freelance scope-change email template](freelance-scope-change-email-template.md).
+For a full proposal structure, see the [freelance proposal boundary template](freelance-proposal-boundary-template.md).
 
 For a private, no-signup planning pass, use the [free QuoteBoundary scope-change response generator](https://quoteboundary.evanguy.chatgpt.site/scope-creep-response-generator?utm_source=github&utm_medium=readme&utm_campaign=scope_change_reference_v1&utm_content=developer_scope_change). It turns added hours, rate, uncertainty buffer, and timing into a draft response. Inputs stay in the browser; the result is planning help, not a legal change order.
 
@@ -28,6 +29,10 @@ Start with the added effort: estimate the new hours, apply the rate that fits th
 ## How do I write a freelance scope change email?
 
 Describe the requested change in plain language, explain why it sits outside the current scope, state the added price and delivery impact, offer the original scope as an alternative, and ask for written approval before starting. Adapt the [freelance scope-change email template](freelance-scope-change-email-template.md) to the project. This is communication guidance, not a contract or legal advice.
+
+## What should a freelance proposal include?
+
+A useful freelance proposal names the outcome, deliverables, assumptions, client inputs, timeline, revision limit, exclusions, investment, payment schedule, and the written process for changes after approval. Use the [freelance proposal boundary template](freelance-proposal-boundary-template.md) as a planning structure, then adapt the wording to the agreement and project. It is not legal advice.
 
 ## The five-step response
 
