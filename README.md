@@ -1,3 +1,6 @@
+Exit code: 0
+Wall time: 4.7 seconds
+Output:
 # Freelance scope change checklist: price the change before you start
 
 When a client asks for another deliverable, more revisions, new inputs, or a faster deadline, the safest first move is to make the tradeoff visible before extra work begins.
@@ -13,6 +16,10 @@ For a private, no-signup planning pass, use the [free QuoteBoundary scope-change
 ## Is this scope creep?
 
 Scope creep is work added after an agreement without a matching change to price, timing, or acceptance criteria. A request can be reasonable and still require a scope conversation; the useful test is whether it changes the agreed deliverable, revision limit, client inputs, or deadline.
+
+## What is a freelance change order?
+
+A freelance change order is a written record of work that changes an approved project after the original scope is agreed. It should make the new deliverable or constraint, added price, schedule impact, and approval step explicit while leaving the original scope visible as the baseline. Use it as planning guidance and review the final terms under your agreement.
 
 ## When to use a change order
 
