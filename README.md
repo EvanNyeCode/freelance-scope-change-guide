@@ -23,6 +23,10 @@ A freelance change request template records the requested change, how it affects
 
 Start with the added effort: estimate the new hours, apply the rate that fits the project, and account separately for extra coordination, uncertainty, or rush timing when those costs are real. Give the client one clear added price and delivery impact, while keeping the original scope as the alternative. The important boundary is to agree on the change before beginning the added work; the exact price should reflect your agreement and circumstances.
 
+## How do I write a freelance scope change email?
+
+Describe the requested change in plain language, explain why it sits outside the current scope, state the added price and delivery impact, offer the original scope as an alternative, and ask for written approval before starting. Adapt the [freelance scope-change email template](freelance-scope-change-email-template.md) to the project. This is communication guidance, not a contract or legal advice.
+
 ## The five-step response
 
 1. **Acknowledge the request.** Show that you understood the requested change without silently accepting it into the current price.
@@ -55,4 +59,3 @@ For a private, no-signup planning pass, use the [free QuoteBoundary scope-change
 If all four answers are yes, the client can make an informed tradeoff and the extra work has a clear checkpoint.
 
 Disclosure: This guide was drafted with AI assistance, then reviewed and edited by AppsByEvan Labs.
-
