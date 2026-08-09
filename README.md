@@ -4,6 +4,14 @@ When a client asks for another deliverable, more revisions, new inputs, or a fas
 
 This short guide is a practical planning reference for freelancers, consultants, and small studios. It is not a contract or legal advice.
 
+## Is this scope creep?
+
+Scope creep is work added after an agreement without a matching change to price, timing, or acceptance criteria. A request can be reasonable and still require a scope conversation; the useful test is whether it changes the agreed deliverable, revision limit, client inputs, or deadline.
+
+## When to use a change order
+
+Use a written change order or clear written approval when the requested work changes the agreed deliverables, price, schedule, or acceptance criteria. State what is being added, what it costs, and when it will be delivered before starting. This guide is planning help, not legal advice.
+
 ## The five-step response
 
 1. **Acknowledge the request.** Show that you understood the requested change without silently accepting it into the current price.
