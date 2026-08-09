@@ -1,4 +1,4 @@
-# Freelance scope change checklist: price the change before you start
+# Freelance change request template & scope-change checklist
 
 When a client asks for another deliverable, more revisions, new inputs, or a faster deadline, the safest first move is to make the tradeoff visible before extra work begins.
 
