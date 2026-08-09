@@ -16,6 +16,10 @@ For a private, no-signup planning pass, use the [free QuoteBoundary scope-change
 
 Scope creep is work added after an agreement without a matching change to price, timing, or acceptance criteria. A request can be reasonable and still require a scope conversation; the useful test is whether it changes the agreed deliverable, revision limit, client inputs, or deadline.
 
+## What is a freelance quote template?
+
+A freelance quote template is a reusable structure for the investment, deliverables, assumptions, timeline, revisions, exclusions, payment terms, and approval step behind a project price. Use it to make the number easy to review before work begins; keep scope changes separate and price them before doing extra work.
+
 ## What is a freelance change order?
 
 A freelance change order is a written record of work that changes an approved project after the original scope is agreed. It should make the new deliverable or constraint, added price, schedule impact, and approval step explicit while leaving the original scope visible as the baseline. Use it as planning guidance and review the final terms under your agreement.
