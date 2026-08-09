@@ -12,6 +12,10 @@ Scope creep is work added after an agreement without a matching change to price,
 
 Use a written change order or clear written approval when the requested work changes the agreed deliverables, price, schedule, or acceptance criteria. State what is being added, what it costs, and when it will be delivered before starting. This guide is planning help, not legal advice.
 
+## What is a freelance change request template?
+
+A freelance change request template records the requested change, how it affects deliverables or timing, the added price, and the approval step before work begins. Use it as a planning aid, then review the final wording against your agreement; it is not legal advice.
+
 ## The five-step response
 
 1. **Acknowledge the request.** Show that you understood the requested change without silently accepting it into the current price.
