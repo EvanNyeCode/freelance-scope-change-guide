@@ -1,0 +1,38 @@
+# Freelance scope change checklist: price the change before you start
+
+When a client asks for another deliverable, more revisions, new inputs, or a faster deadline, the safest first move is to make the tradeoff visible before extra work begins.
+
+This short guide is a practical planning reference for freelancers, consultants, and small studios. It is not a contract or legal advice.
+
+## The five-step response
+
+1. **Acknowledge the request.** Show that you understood the requested change without silently accepting it into the current price.
+2. **Compare it with the agreement.** Check deliverables, exclusions, included revision rounds, client inputs, acceptance criteria, and the deadline.
+3. **Describe the impact.** Explain the added effort, coordination, risk, and schedule effect in plain language.
+4. **Offer a priced choice.** Give the client a choice between keeping the approved scope or approving the added work with its new price and timing.
+5. **Wait for written approval.** Confirm the changed work, price, and delivery impact before starting the extra work.
+
+## Copy-ready message
+
+> Thanks for the request. [Change] sits outside the current [deliverable, revision limit, or timeline]. I can add it for [price], with delivery moving to [date], or we can keep the approved scope and schedule this as a follow-on phase. Please confirm which option you prefer before I begin the added work.
+
+## Common examples
+
+- **Extra deliverable:** Name the new page, report, integration, export, or other output, then state the price and schedule effect.
+- **More revisions:** Separate a new review round from fixing a defect against an agreed acceptance criterion.
+- **Rush deadline:** Check availability, explain the coordination or rush impact, and confirm the revised terms before changing the plan.
+
+## Calculate the change before you answer
+
+For a private, no-signup planning pass, use the [free QuoteBoundary scope-change response generator](https://quoteboundary.evanguy.chatgpt.site/scope-creep-response-generator?utm_source=github&utm_medium=readme&utm_campaign=scope_change_reference_v1&utm_content=developer_scope_change). It turns added hours, rate, uncertainty buffer, and timing into a draft response. Inputs stay in the browser; the result is planning help, not a legal change order.
+
+## Final check
+
+- Did I name what changed?
+- Did I connect it to effort, price, or timing?
+- Did I leave the original scope available as an option?
+- Did I ask for written approval before starting?
+
+If all four answers are yes, the client can make an informed tradeoff and the extra work has a clear checkpoint.
+
+Disclosure: This guide was drafted with AI assistance, then reviewed and edited by AppsByEvan Labs.
