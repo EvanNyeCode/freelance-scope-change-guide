@@ -7,6 +7,8 @@ This short guide is a practical planning reference for freelancers, consultants,
 For a copy-ready form, see the [freelance change request template](freelance-change-request-template.md).
 For an email-specific version, see the [freelance scope-change email template](freelance-scope-change-email-template.md).
 
+For a private, no-signup planning pass, use the [free QuoteBoundary scope-change response generator](https://quoteboundary.evanguy.chatgpt.site/scope-creep-response-generator?utm_source=github&utm_medium=readme&utm_campaign=scope_change_reference_v1&utm_content=developer_scope_change). It turns added hours, rate, uncertainty buffer, and timing into a draft response. Inputs stay in the browser; the result is planning help, not a legal change order.
+
 ## Is this scope creep?
 
 Scope creep is work added after an agreement without a matching change to price, timing, or acceptance criteria. A request can be reasonable and still require a scope conversation; the useful test is whether it changes the agreed deliverable, revision limit, client inputs, or deadline.
@@ -46,8 +48,6 @@ Describe the requested change in plain language, explain why it sits outside the
 - **Rush deadline:** Check availability, explain the coordination or rush impact, and confirm the revised terms before changing the plan.
 
 ## Calculate the change before you answer
-
-For a private, no-signup planning pass, use the [free QuoteBoundary scope-change response generator](https://quoteboundary.evanguy.chatgpt.site/scope-creep-response-generator?utm_source=github&utm_medium=readme&utm_campaign=scope_change_reference_v1&utm_content=developer_scope_change). It turns added hours, rate, uncertainty buffer, and timing into a draft response. Inputs stay in the browser; the result is planning help, not a legal change order.
 
 ## Final check
 
