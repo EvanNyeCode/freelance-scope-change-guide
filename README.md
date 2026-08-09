@@ -1,5 +1,5 @@
 Exit code: 0
-Wall time: 4.7 seconds
+Wall time: 3.5 seconds
 Output:
 # Freelance scope change checklist: price the change before you start
 
@@ -10,6 +10,7 @@ This short guide is a practical planning reference for freelancers, consultants,
 For a copy-ready form, see the [freelance change request template](freelance-change-request-template.md).
 For an email-specific version, see the [freelance scope-change email template](freelance-scope-change-email-template.md).
 For a full proposal structure, see the [freelance proposal boundary template](freelance-proposal-boundary-template.md).
+For a one-page review, see the [freelance change-order checklist](freelance-change-order-checklist.md).
 
 For a private, no-signup planning pass, use the [free QuoteBoundary scope-change response generator](https://quoteboundary.evanguy.chatgpt.site/scope-creep-response-generator?utm_source=github&utm_medium=readme&utm_campaign=scope_change_reference_v1&utm_content=developer_scope_change). It turns added hours, rate, uncertainty buffer, and timing into a draft response. Inputs stay in the browser; the result is planning help, not a legal change order.
 
