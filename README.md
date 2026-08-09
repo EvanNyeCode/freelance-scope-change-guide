@@ -1,6 +1,3 @@
-Exit code: 0
-Wall time: 3.5 seconds
-Output:
 # Freelance scope change checklist: price the change before you start
 
 When a client asks for another deliverable, more revisions, new inputs, or a faster deadline, the safest first move is to make the tradeoff visible before extra work begins.
@@ -46,6 +43,10 @@ Describe the requested change in plain language, explain why it sits outside the
 
 A useful freelance proposal names the outcome, deliverables, assumptions, client inputs, timeline, revision limit, exclusions, investment, payment schedule, and the written process for changes after approval. Use the [freelance proposal boundary template](freelance-proposal-boundary-template.md) as a planning structure, then adapt the wording to the agreement and project. It is not legal advice.
 
+## What should a freelance proposal template include?
+
+A practical freelance proposal template should make the client need, desired outcome, deliverables, assumptions and client inputs, revision limit, exclusions, timeline, investment, payment schedule, and change process easy to review. Start with the [freelance proposal boundary template](freelance-proposal-boundary-template.md), replace each placeholder with the exact project terms, and confirm the final agreement before work begins. This is planning guidance, not legal advice.
+
 ## The five-step response
 
 1. **Acknowledge the request.** Show that you understood the requested change without silently accepting it into the current price.
@@ -86,4 +87,3 @@ This makes the change easy to compare with the approved scope and avoids burying
 If all four answers are yes, the client can make an informed tradeoff and the extra work has a clear checkpoint.
 
 Disclosure: This guide was drafted with AI assistance, then reviewed and edited by AppsByEvan Labs.
-
