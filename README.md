@@ -54,6 +54,16 @@ A useful freelance proposal names the outcome, deliverables, assumptions, client
 
 ## Calculate the change before you answer
 
+Estimate the added work before you answer the client. A simple freelance change-order worksheet is:
+
+- **Added hours:** write the best estimate for the new deliverable or revision round.
+- **Rate:** apply the rate that fits the approved project and agreement.
+- **Real adjustment:** add coordination, uncertainty, or rush impact only when it is actually present.
+- **Added price:** combine the labor and any real adjustment into one clear number.
+- **Delivery impact:** state the revised date or schedule tradeoff next to the price.
+
+This makes the change easy to compare with the approved scope and avoids burying an estimate inside a long explanation. It is planning guidance, not legal advice.
+
 ## Final check
 
 - Did I name what changed?
