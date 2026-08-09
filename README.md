@@ -22,6 +22,10 @@ Use a written change order or clear written approval when the requested work cha
 
 A freelance change request template records the requested change, how it affects deliverables or timing, the added price, and the approval step before work begins. Use it as a planning aid, then review the final wording against your agreement; it is not legal advice.
 
+## What should a freelance change order include?
+
+A clear change order should name the original deliverable, describe the requested addition, explain why it sits outside the approved scope, state the added effort and price, show any schedule or deadline impact, and record the approval step before the new work begins. It should also say what remains unchanged so the client can compare the original scope with the proposed change. This is planning guidance, not legal advice.
+
 ## How should I price a freelance scope change?
 
 Start with the added effort: estimate the new hours, apply the rate that fits the project, and account separately for extra coordination, uncertainty, or rush timing when those costs are real. Give the client one clear added price and delivery impact, while keeping the original scope as the alternative. The important boundary is to agree on the change before beginning the added work; the exact price should reflect your agreement and circumstances.
@@ -74,3 +78,4 @@ This makes the change easy to compare with the approved scope and avoids burying
 If all four answers are yes, the client can make an informed tradeoff and the extra work has a clear checkpoint.
 
 Disclosure: This guide was drafted with AI assistance, then reviewed and edited by AppsByEvan Labs.
+
