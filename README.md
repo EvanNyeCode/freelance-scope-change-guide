@@ -18,6 +18,10 @@ Use a written change order or clear written approval when the requested work cha
 
 A freelance change request template records the requested change, how it affects deliverables or timing, the added price, and the approval step before work begins. Use it as a planning aid, then review the final wording against your agreement; it is not legal advice.
 
+## How should I price a freelance scope change?
+
+Start with the added effort: estimate the new hours, apply the rate that fits the project, and account separately for extra coordination, uncertainty, or rush timing when those costs are real. Give the client one clear added price and delivery impact, while keeping the original scope as the alternative. The important boundary is to agree on the change before beginning the added work; the exact price should reflect your agreement and circumstances.
+
 ## The five-step response
 
 1. **Acknowledge the request.** Show that you understood the requested change without silently accepting it into the current price.
