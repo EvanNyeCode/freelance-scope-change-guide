@@ -5,6 +5,7 @@ When a client asks for another deliverable, more revisions, new inputs, or a fas
 This short guide is a practical planning reference for freelancers, consultants, and small studios. It is not a contract or legal advice.
 
 For a copy-ready form, see the [freelance change request template](freelance-change-request-template.md).
+For an email-specific version, see the [freelance scope-change email template](freelance-scope-change-email-template.md).
 
 ## Is this scope creep?
 
