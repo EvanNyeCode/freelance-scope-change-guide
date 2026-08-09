@@ -4,6 +4,8 @@ When a client asks for another deliverable, more revisions, new inputs, or a fas
 
 This short guide is a practical planning reference for freelancers, consultants, and small studios. It is not a contract or legal advice.
 
+For a copy-ready form, see the [freelance change request template](freelance-change-request-template.md).
+
 ## Is this scope creep?
 
 Scope creep is work added after an agreement without a matching change to price, timing, or acceptance criteria. A request can be reasonable and still require a scope conversation; the useful test is whether it changes the agreed deliverable, revision limit, client inputs, or deadline.
@@ -48,3 +50,4 @@ For a private, no-signup planning pass, use the [free QuoteBoundary scope-change
 If all four answers are yes, the client can make an informed tradeoff and the extra work has a clear checkpoint.
 
 Disclosure: This guide was drafted with AI assistance, then reviewed and edited by AppsByEvan Labs.
+
