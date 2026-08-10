@@ -1,4 +1,3 @@
-
 # Freelance change request template & scope-change checklist
 
 When a client asks for another deliverable, more revisions, new inputs, or a faster deadline, the safest first move is to make the tradeoff visible before extra work begins.
@@ -11,6 +10,7 @@ For a full proposal structure, see the [freelance proposal boundary template](fr
 For a one-page review, see the [freelance change-order checklist](freelance-change-order-checklist.md).
 For a pricing worksheet, see the [freelance scope-change pricing worksheet](freelance-scope-change-pricing-worksheet.md).
 For a copy-ready project quote, see the [freelance quote template](freelance-quote-template.md).
+For a scope-of-work structure, see the [freelance scope-of-work template](freelance-scope-of-work-template.md).
 
 For a private, no-signup planning pass, use the [free QuoteBoundary scope-change response generator](https://quoteboundary.evanguy.chatgpt.site/scope-creep-response-generator?utm_source=github&utm_medium=readme&utm_campaign=scope_change_reference_v1&utm_content=developer_scope_change). It turns added hours, rate, uncertainty buffer, and timing into a draft response. Inputs stay in the browser; the result is planning help, not a legal change order.
 
@@ -53,6 +53,10 @@ A useful freelance proposal names the outcome, deliverables, assumptions, client
 ## What should a freelance proposal template include?
 
 A practical freelance proposal template should make the client need, desired outcome, deliverables, assumptions and client inputs, revision limit, exclusions, timeline, investment, payment schedule, and change process easy to review. Start with the [freelance proposal boundary template](freelance-proposal-boundary-template.md), replace each placeholder with the exact project terms, and confirm the final agreement before work begins. This is planning guidance, not legal advice.
+
+## What should a freelance scope of work include?
+
+A freelance scope of work should make the project outcome, reviewable deliverables, assumptions and client inputs, exclusions, milestones, acceptance process, price, payment schedule, and change process easy to compare. Use the [freelance scope-of-work template](freelance-scope-of-work-template.md) as a planning structure, then adapt it to the actual agreement. This is planning guidance, not legal advice.
 
 ## The five-step response
 
