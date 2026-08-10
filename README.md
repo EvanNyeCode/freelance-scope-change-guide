@@ -11,6 +11,7 @@ For a one-page review, see the [freelance change-order checklist](freelance-chan
 For a pricing worksheet, see the [freelance scope-change pricing worksheet](freelance-scope-change-pricing-worksheet.md).
 For a copy-ready project quote, see the [freelance quote template](freelance-quote-template.md).
 For a scope-of-work structure, see the [freelance scope-of-work template](freelance-scope-of-work-template.md).
+For a pre-quote estimate, see the [freelance project estimate template](freelance-project-estimate-template.md).
 
 For a private, no-signup planning pass, use the [free QuoteBoundary scope-change response generator](https://quoteboundary.evanguy.chatgpt.site/scope-creep-response-generator?utm_source=github&utm_medium=readme&utm_campaign=scope_change_reference_v1&utm_content=developer_scope_change). It turns added hours, rate, uncertainty buffer, and timing into a draft response. Inputs stay in the browser; the result is planning help, not a legal change order.
 
@@ -21,6 +22,10 @@ Scope creep is work added after an agreement without a matching change to price,
 ## What is a freelance quote template?
 
 A freelance quote template is a reusable structure for the investment, deliverables, assumptions, timeline, revisions, exclusions, payment terms, and approval step behind a project price. Use it to make the number easy to review before work begins; keep scope changes separate and price them before doing extra work.
+
+## What should a freelance project estimate include?
+
+A freelance project estimate should make the intended outcome, deliverables, exclusions, assumptions and client inputs, work phases, pricing basis, expected schedule, revisions, acceptance, payment terms, and approval step easy to review. Keep the estimate distinct from a later client-facing quote, state what could change the estimate, and document any request that changes the approved scope before starting the added work. Use the [freelance project estimate template](freelance-project-estimate-template.md) as a planning structure; it is not legal or accounting advice.
 
 ## What is a freelance change order?
 
@@ -98,3 +103,4 @@ This makes the change easy to compare with the approved scope and avoids burying
 If all four answers are yes, the client can make an informed tradeoff and the extra work has a clear checkpoint.
 
 Disclosure: This guide was drafted with AI assistance, then reviewed and edited by AppsByEvan Labs.
+
