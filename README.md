@@ -27,6 +27,14 @@ A freelance quote template is a reusable structure for the investment, deliverab
 
 A freelance project estimate should make the intended outcome, deliverables, exclusions, assumptions and client inputs, work phases, pricing basis, expected schedule, revisions, acceptance, payment terms, and approval step easy to review. Keep the estimate distinct from a later client-facing quote, state what could change the estimate, and document any request that changes the approved scope before starting the added work. Use the [freelance project estimate template](freelance-project-estimate-template.md) as a planning structure; it is not legal or accounting advice.
 
+## How do I calculate a freelance project quote?
+
+Start with the work rather than a number that feels competitive. List the deliverables and exclusions, break the work into discovery, production, review, revision, and client-communication blocks, and estimate the realistic hours for each. Multiply that total by the sustainable hourly rate you use internally, then add only expenses or rush and uncertainty adjustments that are actually present.
+
+`project quote = (delivery hours + admin and revision hours) × internal rate + real expenses + justified adjustment`
+
+Keep the assumptions, revision limit, payment schedule, and delivery date next to the total. If an assumption is still unknown, state what would change the estimate instead of hiding an arbitrary buffer inside the price. The [freelance project estimate template](freelance-project-estimate-template.md) provides a copy-ready structure for that pre-quote pass; adapt it to the actual project and agreement.
+
 ## What is a freelance change order?
 
 A freelance change order is a written record of work that changes an approved project after the original scope is agreed. It should make the new deliverable or constraint, added price, schedule impact, and approval step explicit while leaving the original scope visible as the baseline. Use it as planning guidance and review the final terms under your agreement.
