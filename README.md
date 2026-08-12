@@ -12,6 +12,7 @@ For a pricing worksheet, see the [freelance scope-change pricing worksheet](free
 For a copy-ready project quote, see the [freelance quote template](freelance-quote-template.md).
 For a scope-of-work structure, see the [freelance scope-of-work template](freelance-scope-of-work-template.md).
 For a pre-quote estimate, see the [freelance project estimate template](freelance-project-estimate-template.md).
+For a filled-in scenario, see the [freelance change-order example](freelance-change-order-example.md).
 
 For a private, no-signup planning pass, use the [free QuoteBoundary scope-change response generator](https://quoteboundary.evanguy.chatgpt.site/scope-creep-response-generator?utm_source=github&utm_medium=readme&utm_campaign=scope_change_reference_v1&utm_content=developer_scope_change). It turns added hours, rate, uncertainty buffer, and timing into a draft response. Inputs stay in the browser; the result is planning help, not a legal change order.
 
