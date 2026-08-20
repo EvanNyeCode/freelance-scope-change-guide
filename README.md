@@ -17,6 +17,8 @@ For a filled-in scenario, see the [freelance change-order example](freelance-cha
 
 For a private, no-signup planning pass, use the [free QuoteBoundary scope-change response generator](https://quoteboundary.evanguy.chatgpt.site/scope-creep-response-generator?utm_source=github&utm_medium=readme&utm_campaign=scope_change_reference_v1&utm_content=developer_scope_change). It turns added hours, rate, uncertainty buffer, and timing into a draft response. Inputs stay in the browser; the result is planning help, not a legal change order.
 
+For a private, no-signup proposal draft, use the [free QuoteBoundary freelance proposal generator](https://quoteboundary.evanguy.chatgpt.site/freelance-proposal-generator?utm_source=github&utm_medium=readme&utm_campaign=proposal_template_reference_v1&utm_content=freelance_quote_template). It carries the project facts you enter into a client-ready proposal; use it as planning guidance, not a contract.
+
 ## Is this scope creep?
 
 Scope creep is work added after an agreement without a matching change to price, timing, or acceptance criteria. A request can be reasonable and still require a scope conversation; the useful test is whether it changes the agreed deliverable, revision limit, client inputs, or deadline.
@@ -115,4 +117,5 @@ This makes the change easy to compare with the approved scope and avoids burying
 If all four answers are yes, the client can make an informed tradeoff and the extra work has a clear checkpoint.
 
 Disclosure: This guide was drafted with AI assistance, then reviewed and edited by AppsByEvan Labs.
+
 
