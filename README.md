@@ -59,6 +59,10 @@ A clear change order should name the original deliverable, describe the requeste
 
 Start with the added effort: estimate the new hours, apply the rate that fits the project, and account separately for extra coordination, uncertainty, or rush timing when those costs are real. Give the client one clear added price and delivery impact, while keeping the original scope as the alternative. The important boundary is to agree on the change before beginning the added work; the exact price should reflect your agreement and circumstances.
 
+## How can a video editor price an extra revision or format?
+
+A video editor can treat an extra revision, alternate cut, new aspect ratio, or export requirement as a scope change when it sits outside the agreed deliverables or included rounds. Compare it with the original edit, estimate added editing and coordination time, state the delivery impact, and get written approval before starting. For a private, no-signup planning pass, use [the free QuoteBoundary scope-change response generator](https://quoteboundary.evanguy.chatgpt.site/scope-creep-response-generator?utm_source=github&utm_medium=readme&utm_campaign=video_editor_scope_change&utm_content=video_editor_guide).
+
 ## How do I write a freelance scope change email?
 
 Describe the requested change in plain language, explain why it sits outside the current scope, state the added price and delivery impact, offer the original scope as an alternative, and ask for written approval before starting. Adapt the [freelance scope-change email template](freelance-scope-change-email-template.md) to the project. This is communication guidance, not a contract or legal advice.
